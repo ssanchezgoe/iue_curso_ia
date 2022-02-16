@@ -8,3 +8,4 @@ El curso se encuentra almacenado en el siguiente [link](https://github.com/ssanc
 
 1. Introducción a la inteligencia artificial [S01_IA_Intro.ipynb](https://github.com/ssanchezgoe/iue_curso_ia/blob/main/nb_google_colab/S01_IA_Intro.ipynb)
 2. Agentes inteligentes [S02_agentes_inteligentes.ipynb](https://github.com/ssanchezgoe/iue_curso_ia/blob/main/nb_google_colab/S02_agentes_inteligentes.ipynb)
+3. Resolución de problemas mediante búsqueda [S02_Busqueda_I.ipynb](https://github.com/ssanchezgoe/iue_curso_ia/blob/main/nb_google_colab/S02_Busqueda_I.ipynb)
